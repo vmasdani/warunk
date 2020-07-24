@@ -1,0 +1,23 @@
+{
+  "name": "warunk",
+  "version": "1.0.0",
+  "description": "warung app test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "valian masdani",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmasdani/warunk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vmasdani/warunk/issues"
+  },
+  "homepage": "https://github.com/vmasdani/warunk#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
